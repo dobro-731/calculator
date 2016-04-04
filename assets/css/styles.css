@@ -1,0 +1,28 @@
+.main {
+    border: 1px solid black;
+    height: 100px;
+    width: 160px;
+    margin: auto;
+    background: #f0f0f0;
+}
+.buttons{
+    margin-left: 9px;
+    margin-top: 7px;
+    
+}
+.button {
+    
+    width: 25px;
+    height: 25px;
+}
+.form {
+    
+    height: 40px;
+}
+#tekst {
+    font-size: 18px;
+    width: 140px;
+    height: 20px;
+    margin-left: 9px;
+    margin-top: 7px;
+}
